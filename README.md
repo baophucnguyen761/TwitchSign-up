@@ -47,7 +47,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<[img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo']'(https://www.loom.com/share/d5ac21b56738422d899fa6a654b145d1?sid=c64a5098-2562-4629-8a4b-03e7ed783148) />
+<[img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo'] (https://www.loom.com/share/d5ac21b56738422d899fa6a654b145d1?sid=0623688b-ce8b-4278-9a04-d51e228451cc) />
 
 GIF created with **your chosen GIF tool**
 
